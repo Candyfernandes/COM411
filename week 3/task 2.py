@@ -8,9 +8,3 @@ while avoided_obstacles <= num_obstacles_removed:
 
 
 print("All obstacles have been avoided.")
-
-
-
-
-
-
