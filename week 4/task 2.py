@@ -20,4 +20,6 @@ print("Error: Please enter a valid integer.")
 print("Program Ended!")
 
 if __name__ == "__main__":
-    main()
+
+    if __name__ == '__main__':
+
