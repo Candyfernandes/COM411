@@ -3,7 +3,7 @@ def listen():
 
 
 
-    print ("That was a loud {sound}".format(sound=sound))
+    print (f"That was a loud {sound}")
 
 
 listen()
